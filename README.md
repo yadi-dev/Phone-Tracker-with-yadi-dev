@@ -33,6 +33,3 @@ Run the script:
 ## License
 MIT License
 Copyright (c) 2024 yadi-dev
-
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
